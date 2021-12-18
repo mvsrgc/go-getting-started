@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/mvsrgc/greetings"
 	"log"
+
+	"github.com/mvsrgc/greetings"
 )
 
 func main() {
